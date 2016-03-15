@@ -861,3 +861,8 @@
 		body.is-ie #wrapper {
 			height: 100%;
 		}
+
+	.project-list img {
+		border: 1px solid gray;
+		width: 100%;
+	}
